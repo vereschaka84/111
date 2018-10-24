@@ -16,7 +16,8 @@
     "cookiesAlert": "",
     "gdpr": "",
     "uniqCompNum": 13,
-    "versionPublish": "4.8.1"
+    "versionPublish": "4.8.1",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
